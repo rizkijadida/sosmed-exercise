@@ -10,7 +10,7 @@ import CardWhoToFollow from "./components/CardWhoToFollow";
 export default function Home() {
   return (
     <main className="container mx-auto px-4">
-      <section className="grid grid-cols-5 pt-4 ">
+      <section className="grid grid-cols-5 pt-4">
         {/* SIDEBAR */}
         <div className="flex flex-col gap-4">
           <Button variant="ghost" className="justify-normal">
@@ -40,7 +40,7 @@ export default function Home() {
         {/* END TWEET LIST*/}
 
         {/* WHO TO FOLLOW */}
-        <div><CardWhoToFollow/></div>
+        <div className="ml-4"><CardWhoToFollow/></div>
         {/* END WHO TO FOLLOW */}
       </section>
     </main>

@@ -4,8 +4,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
 import React, { useState } from "react";
-import { Separator } from "@/components/ui/separator"
-
+import { Separator } from "@/components/ui/separator";
 
 const HeaderTweet: React.FC = () => {
   const [tweet, setTweet] = useState("");
