@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Budi Jancok",
+      "email": "budi@mail.com",
+      "password": "Admin123",
+      "isVerify": true
+    },
+    {
+      "id": "2",
+      "name": "ade irwan",
+      "email": "ade@gmail.com",
+      "password": "ade",
+      "isVerify": false
+    },
+    {
+      "id": "d80b",
+      "name": "firza",
+      "email": "firza@mail.com",
+      "password": "firza123",
+      "isVerify": false
+    },
+    {
+      "id": "f6c9",
+      "name": "herubrandalz",
+      "email": "heru@mail.com",
+      "password": "heruheruheru",
+      "isVerify": false
+    },
+    {
+      "id": "19de",
+      "name": "",
+      "email": "rizkijadida@gmail.com",
+      "password": "",
+      "isVerify": false
+    }
+  ]
+}
